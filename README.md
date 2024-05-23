@@ -1,7 +1,4 @@
-# LinkedIn-Data-Mart-
-Sure, here's an updated README file incorporating the information about wildcards in the ETL process:
 
----
 
 # LinkedIn Data Mart Project
 
