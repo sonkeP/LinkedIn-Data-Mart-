@@ -41,6 +41,8 @@ The PowerBI dashboard provides various visualizations to make data accessible an
 - **Connection Trends**: Analysis of connection growth over time.
 - **Engagement Metrics**: Metrics related to post engagement, such as likes, comments, and shares.
 - **Demographic Insights**: Insights into demographic data of connections and network.
+  ![image](https://github.com/sonkeP/LinkedIn-Data-Mart-/assets/149336942/90dcb101-680e-4afe-99d5-b48299895a03)
+
 
 ### Steps to Create Visualizations
 
